@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+database/
+logs/
+backup/
+__pycache__/
+*.pyc
+bot.lock
